@@ -7,7 +7,7 @@ import plotly.express as px
 import numpy as np
 
 # Load Dataset
-filename = ('')
+filename = ('data_clean.csv')
 data1 = pd.read_csv(filename)
 data = data1[['distance_to_airport_km', 'avg_daily_rate', 'loyalty_points', 'customer_tier', 'target_value']]
 
