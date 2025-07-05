@@ -1,8 +1,7 @@
 # load libraries
 import streamlit as st
 import pandas as pd
-import plotly.express as px
-import numpy as np
+
 
 # Load Dataset
 filename = ('https://media.githubusercontent.com/media/nvstudent-unt/adta5410-module4/refs/heads/main/data_clean.csv')
