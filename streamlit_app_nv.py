@@ -2,7 +2,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import matplotlib as plt
+import matplotlib.pyplot as plt
 
 # Load Dataset
 filename = ('https://media.githubusercontent.com/media/nvstudent-unt/adta5410-module4/refs/heads/main/data_clean.csv')
